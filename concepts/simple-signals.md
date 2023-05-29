@@ -22,7 +22,7 @@ func emit_player_died():
 
 4. Then, in scripts that needs to know what player died add:
 
-```gdscripts
+```gdscript
 func _ready():
     Events.connect("player_died", on_player_died)
 
