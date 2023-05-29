@@ -6,10 +6,14 @@ Notes with Godot 4 snippets and small tutorials
 ## What is it?
 
 These are my private/public notes around Godot 4. Solutions for small problems, snippets and instructions. You can use it if you feel it's helpful, but please don't PR. :)
+Notes can include some subjective solutions or workarounds.
 
 
 ### Contents:
 
+#### Concepts:
+
+- [Simple Signals](/concepts/simple-signals.md)
 
 
 ### Plugins:
